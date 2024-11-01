@@ -1,10 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-    "Hello, my name is Rajeenthan, and I am a software developer with 3 years of hands-on experience. I'm passionate about leveraging data-driven solutions to tackle real-world problems. Over the past couple   
-     of years, I've had the opportunity to work on a variety of machine learning projects that have honed my technical skills and deepened my understanding of the field. My journey started with a solid 
-     foundation in both Python programming and fundamental machine learning concepts, which I've since applied to projects ranging from predictive modeling to computer vision.. All coding projects are built from 
-     the ground up, from planning and designing all the way to solving real-life problems with code.
+    "Hello, my name is Rajeenthan, and I am a software developer with 3 years of hands-on experience. I'm passionate about leveraging <br> data-driven solutions to tackle real-world problems. Over the past couple of years, I've had the opportunity to work on a variety of machine learning projects that have honed my technical skills <br>and deepened my understanding of the field. My journey started with a solid foundation in both Python programming and fundamental machine learning concepts, which I've since applied to projects ranging from predictive modeling to computer vision.. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 🔭 I’m currently working on Software Development<br>👯 I’m looking to collaborate on Cyber Security, Software Testing<br>🤝 I’m looking for help with developing testing <br>🌱 I’m currently learning flutter<br>💬 Ask me about Cyber Security, Web Development (Frontend, Backend)<br>⚡ Fun fact - I am lazy but smart
 
 
