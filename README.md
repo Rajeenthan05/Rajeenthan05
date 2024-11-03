@@ -1,3 +1,6 @@
+##Rajeenthan Rajaratnam
+    ##Software Engineer
+
 ## Hi there 👋
 
 "Hello, my name is Rajeenthan, and I am a software developer with 3 years of hands-on experience. I'm passionate about leveraging data-driven solutions to tackle real-world problems. Over the past couple of years, I've worked on various machine learning projects, honing my technical skills and deepening my understanding of the field. My journey began with a solid foundation in Python programming and fundamental machine learning concepts, applied to projects from predictive modeling to computer vision. I build coding projects from the ground up, from planning and design to solving real-life problems. Currently, I'm focusing on software development and learning Flutter. I'm eager to collaborate on Cyber Security and Software Testing and seek help developing testing methodologies. Ask me about Cyber Security and Web Development (Frontend and Backend)".<br><br>⚡ Fun facts: I can’t start my day without a perfectly brewed cup of coffee ☕.<br> Nothing rejuvenates me more than a hike or a day spent in nature 🌲.
