@@ -1,5 +1,5 @@
-##                                                                                 Rajeenthan Rajaratnam
-##                                                                                   Software Engineer
+## 🏄‍♂️Rajeenthan Rajaratnam
+## Software Engineer
 
 ## Hi there 👋
 
