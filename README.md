@@ -32,6 +32,8 @@
 <img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />
 <img align="left" alt=".NET" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Cisco" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Cisco_logo_blue_2016.svg" style="padding-right:10px;" />
+<img align="left" alt="Adobe" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Adobe-logo.png" style="padding-right:10px;" />
 <img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
@@ -47,9 +49,4 @@
 <br />
 <br />
 
- 
-[![](https://visitcount.itsvg.in/api?id=Rajeenthan05&icon=0&color=6)](https://visitcount.itsvg.in)
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
