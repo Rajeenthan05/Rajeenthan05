@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://www.facebook.com/kajan.rajaratnam.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gorkcoder484" height="30" width="40" /></a>
 <a href="https://www.instagram.com/rajeenthan_05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gorkcoder484" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCEaZ92FpOJX4aSYLN9Evj5g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gorkcoder" height="30" width="40" /></a>
 </p>
  
  
@@ -38,10 +37,8 @@
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Canva" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Adobe" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobe/adobe-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
 <img align="left" alt="PyTorch" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Cisco" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Postman" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Arduino" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
