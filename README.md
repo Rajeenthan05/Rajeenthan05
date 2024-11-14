@@ -10,6 +10,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rajeenthan05&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeenthan05&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+ 
+### Connect with me:
+<p align="left">
+<a href="https://www.facebook.com/kajan.rajaratnam.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gorkcoder484" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rajeenthan_05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gorkcoder484" height="30" width="40" /></a>
+</p>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
