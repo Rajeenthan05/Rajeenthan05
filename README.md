@@ -1,6 +1,6 @@
 <div align="center">
 
-### 🏄‍♂️Rajeenthan Rajaratnam <br>
+## 🏄‍♂️Rajeenthan Rajaratnam <br>
 
 ####  CYBERSECURITY🔐💻🛡️  |  FRONTEND🎨🌐🖥️  |  BACKEND🛠️🔧📦  |  DEVOPS🚀⚙️📡  |  NETWORKING🌐🔗📡   <br>
 
