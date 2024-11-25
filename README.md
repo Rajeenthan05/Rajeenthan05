@@ -1,6 +1,8 @@
 ### 🏄‍♂️Rajeenthan Rajaratnam <br>
-#### CYBERSECURITY🔐💻🛡️  |  FRONTEND🎨🌐🖥️  |  BACKEND🛠️🔧📦  |  DEVOPS🚀⚙️📡  |  NETWORKING🌐🔗📡  <br>
+<div align="center">
 
+#### **CYBERSECURITY🔐💻🛡️  |  FRONTEND🎨🌐🖥️  |  BACKEND🛠️🔧📦  |  DEVOPS🚀⚙️📡  |  NETWORKING🌐🔗📡**  <br>
+</div>
 
 [RajeenthanCV.pdf](https://github.com/user-attachments/files/17861321/RajeenthanCV.pdf)
 
