@@ -4,7 +4,7 @@
 
 ####  CYBERSECURITY🔐💻🛡️  |  FRONTEND🎨🌐🖥️  |  BACKEND🛠️🔧📦  |  DEVOPS🚀⚙️📡  |  NETWORKING🌐🔗📡   <br>
 
-
+[Rajeenthan Resume.pdf](https://github.com/user-attachments/files/18574588/Rajeenthan.Resume.pdf)
 </div>
 
 <p align="justify">
